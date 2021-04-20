@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+#cabecera{
+    width: 900px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+}
+.logo{
+    width: 400px;
+    height: 100px;
+    background-color: white;
+}
+#titulo{
+    width: 500px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    color: white;
+}
+#menu{
+    width: 900px;
+    height: 600px;
+    background-color: white;
+}
+#footer{
+    width: 900px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+}
